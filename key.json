@@ -1,7 +1,7 @@
 {
   "valid_key": [
-    "HC-123",
-    "VIP-MEMBER-999",
-    "HUNGCHILL"
+    { "id": "HC-123", "expiry": "2026-12-31" },
+    { "id": "VIP-999", "expiry": "2026-01-25" },
+    { "id": "HC", "expiry": "2026-01-29" }
   ]
 }
