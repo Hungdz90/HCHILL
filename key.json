@@ -1,7 +1,19 @@
 {
   "valid_key": [
-    { "id": "HC-123", "expiry": "2026-12-31" },
-    { "id": "VIP-999", "expiry": "2026-01-25" },
-    { "id": "HCVN", "expiry": "2026-01-29" }
+    { 
+      "id": "HC-123", 
+      "expiry": "2026-12-31", 
+      "hwid": "" 
+    },
+    { 
+      "id": "VIP-999", 
+      "expiry": "2026-01-25", 
+      "hwid": "MÃ_HWID_ĐÃ_KÍCH_HOẠT" 
+    },
+    { 
+      "id": "HCVN", 
+      "expiry": "2026-01-29", 
+      "hwid": "" 
+    }
   ]
 }
